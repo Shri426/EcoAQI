@@ -1,0 +1,14 @@
+Time,Temperature,Humidity,Wind Speed,AQI,Category,Health Impact,Action
+2026-01-21 14:07:12,34.78,39.61,4.69,325.24,Hazardous,Serious health impacts.,Emergency measures required.
+2026-01-21 14:07:23,5.8,19.08,2.97,296.96,Very Unhealthy,High respiratory risk.,Avoid outdoor activity.
+2026-01-21 14:07:59,5.8,19.08,2.27,295.14,Very Unhealthy,High respiratory risk.,Avoid outdoor activity.
+2026-01-21 14:08:04,5.8,19.08,2.27,295.14,Very Unhealthy,High respiratory risk.,Avoid outdoor activity.
+2026-01-21 14:16:04,27.78,44.44,1.59,297.63,Very Unhealthy,High risk of respiratory effects.,Avoid outdoor activity.
+2026-01-21 14:25:19,42.51,85.51,6.71,279.96,Very Unhealthy,High risk of respiratory effects.,Avoid outdoor activity.
+2026-01-21 14:25:25,34.42,85.51,6.71,265.25,Very Unhealthy,High risk of respiratory effects.,Avoid outdoor activity.
+2026-01-21 14:26:22,42.15,85.51,6.71,279.31,Very Unhealthy,High risk of respiratory effects.,Avoid outdoor activity.
+2026-01-21 14:26:22,42.15,85.51,6.71,279.31,Very Unhealthy,High risk of respiratory effects.,Avoid outdoor activity.
+2026-01-21 14:29:43,34.42,66.18,4.11,285.67,Very Unhealthy,High risk of respiratory effects.,Avoid outdoor activity.
+2026-01-21 14:29:45,34.42,66.18,4.11,285.67,Very Unhealthy,High risk of respiratory effects.,Avoid outdoor activity.
+2026-01-22 09:44:17,44.44,60.0,2.0,307.08,Hazardous,Serious health impacts.,Emergency response required.
+2026-01-22 09:44:37,44.44,82.37,2.0,275.6,Very Unhealthy,High risk of respiratory effects.,Avoid outdoor activity.
